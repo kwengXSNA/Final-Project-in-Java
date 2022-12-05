@@ -329,9 +329,9 @@ public class product2 extends javax.swing.JFrame {
                     .addComponent(jButton9)
                     .addComponent(jButton10)
                     .addComponent(jButton11))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 35, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 28, Short.MAX_VALUE)
                 .addComponent(jButton1)
-                .addGap(19, 19, 19))
+                .addGap(26, 26, 26))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
